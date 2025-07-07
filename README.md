@@ -1,10 +1,13 @@
 # React + Vite
 
 🍎 Apple.com Homepage Clone – UI Project
+
 📋 Overview
+
 This project is a pixel-perfect clone of the official Apple.com homepage. It was built using HTML, CSS, and JavaScript to replicate the layout, design, and animations of Apple’s modern, sleek user interface. The goal was to improve front-end development skills by closely mimicking a world-class website and learning best practices in UI/UX, layout structuring, and responsive design.
 
 🛠️ Tech Stack
+
 HTML5 – Semantic structure
 
 CSS3 – Responsive styling and Flexbox/Grid layout
@@ -18,6 +21,7 @@ FontAwesome – Iconography
 Google Fonts – Custom fonts for Apple-like appearance
 
 🎯 Features
+
 ✅ Responsive navigation bar
 
 ✅ Hero sections with full-width product images
@@ -31,8 +35,9 @@ Google Fonts – Custom fonts for Apple-like appearance
 ✅ Production-ready build (deployed on Hostinger)
 
 📂 Folder Structure
+
 bash
-Copy code
+
 apple-clon/
 ├── index.html         # Main HTML file
 ├── style.css          # Custom styling
@@ -40,7 +45,9 @@ apple-clon/
 ├── assets/            # Images and icons
 ├── vite.config.js     # Vite build config (if using React)
 └── dist/ 
+
 # Production-ready static files
+
 🌐 Live Demo
 🔗 https://apple-clon.bewketwondim.com/
 
